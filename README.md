@@ -38,7 +38,7 @@ Este proyecto es una herramienta automatizada desarrollada en Python que permite
 Instala dependencias con:
 
 ```bash
-pip install selenium xlwings openpyxl pillow
+pip install selenium xlwings pillow
 📓 Cómo usar
 Abre el archivo Insumo.xlsm y llena la columna A con los nombres de los productos a buscar.
 
